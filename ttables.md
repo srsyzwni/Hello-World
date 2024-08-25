@@ -23,3 +23,14 @@ Event Name | Listener Arguments               | Event Description
 | name       | hobby     | university                   | games      |
 |------------|-----------|------------------------------|------------|
 | sprinklezx | badminton | universiti brunei darussalam | temple run |
+
+
+this is **bold** text
+
+__more bold text__
+
+
+this is *italic* text 
+
+_by using underscore can also make the texts to be italic_ 
+
